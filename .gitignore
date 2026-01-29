@@ -4,4 +4,4 @@ node_modules
 .vercel
 generate-module.ts
 dist
-.env
+config.bat
